@@ -1,0 +1,4 @@
+* [1](https://www.kdnuggets.com/2017/06/7-steps-mastering-data-preparation-python.html)
+* [2](https://data-flair.training/blogs/data-wrangling-with-python/)
+* [3](https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
+* [4](https://towardsdatascience.com/data-wrangling-with-pandas-5b0be151df4e)
